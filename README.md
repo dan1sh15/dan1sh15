@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/2fd958abe738486c316e62969e00f075b8023ee58246fbe75be79be4babcdd9f/68747470733a2f2f7777772e696e7465726e65746372656174696f6e2e6e65742f77702d636f6e74656e742f75706c6f6164732f323031352f30342f62616e6e65722d7765622d646576656c6f706d656e742e706e67)]
+[![MasterHead](https://www.google.com/imgres?q=webdevelopment&imgurl=https%3A%2F%2Fwww.simplilearn.com%2Fice9%2Ffree_resources_article_thumb%2Fsoftware_engineer_roadmap.jpg&imgrefurl=https%3A%2F%2Fwww.simplilearn.com%2Fbest-free-web-development-courses-article&docid=3fjqWJfyb63O_M&tbnid=wq1yHBvS_SZXRM&vet=12ahUKEwij3eeCu8-KAxVYxzgGHZXXFqs4ChAzegQIWxAA..i&w=848&h=477&hcb=2&ved=2ahUKEwij3eeCu8-KAxVYxzgGHZXXFqs4ChAzegQIWxAA)]
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
