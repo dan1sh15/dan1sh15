@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?q=webdevelopment&imgurl=https%3A%2F%2Fwww.simplilearn.com%2Fice9%2Ffree_resources_article_thumb%2Fsoftware_engineer_roadmap.jpg&imgrefurl=https%3A%2F%2Fwww.simplilearn.com%2Fbest-free-web-development-courses-article&docid=3fjqWJfyb63O_M&tbnid=wq1yHBvS_SZXRM&vet=12ahUKEwij3eeCu8-KAxVYxzgGHZXXFqs4ChAzegQIWxAA..i&w=848&h=477&hcb=2&ved=2ahUKEwij3eeCu8-KAxVYxzgGHZXXFqs4ChAzegQIWxAA)]
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
